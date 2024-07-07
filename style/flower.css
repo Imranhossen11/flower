@@ -1,0 +1,42 @@
+.Headers {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 850px;
+    background-color: #f1e4e4;
+}
+
+.Footer-div-1 {
+    color: rgb(39, 39, 39);
+    /* height: 800px;
+    width: 635px; */
+}
+
+.Footer-div-2 {
+    height: 800px;
+    width: 635px;
+    /* border: red solid; */
+
+}
+
+.header-title {
+    font-size: 90px;
+}
+
+.header-descripation {
+    font-size: 18px;
+    font-weight: 400px;
+    color: rgba(39, 39, 39, 0.6);
+
+}
+
+.header-btn {
+    color: white;
+    background-color: rgb(229, 84, 115);
+    border-radius: 8px;
+    border: rgb(229, 84, 115);
+    width: 177px;
+    height: 64px;
+    font-size: 20px;
+
+}
