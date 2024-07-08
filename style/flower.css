@@ -40,3 +40,285 @@
     font-size: 20px;
 
 }
+
+.div-1-3flower {
+    display: flex;
+    justify-content: center;
+    border-radius: 50% 50% 0 0;
+    flex-wrap: wrap;
+
+}
+
+.s1-div-1-title {
+    text-align: center;
+
+}
+
+.s1-div-1-title-h3 {
+    font-size: 40px;
+    font-weight: 800px;
+    color: rgb(39, 39, 39);
+}
+
+.s1-div-1-title-p {
+    font-weight: 400px;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.6);
+}
+
+.images1 {
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 605px;
+    margin-right: 24px;
+    border-radius: 40% 40% 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* object-fit: cover;
+    object-position: center; */
+}
+
+.images2 {
+    width: 464px;
+    height: 605px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 24px;
+    border-radius: 40% 40% 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images3 {
+    width: 464px;
+    height: 605px;
+    background: rgba(71, 125, 17, 0.15);
+    border-radius: 40% 40% 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+.img-1 {
+    width: 194px;
+    height: 605px;
+    display: block;
+
+
+}
+
+.img-2 {
+    width: 390px;
+    height: 390px;
+    display: inline-block;
+
+}
+
+.img-3 {
+    width: 214px;
+    height: 605px;
+}
+
+.div2-p {
+    font-size: 24px;
+    font-weight: 700px;
+    color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: center;
+
+
+
+
+}
+
+.imageiconmain {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 77%;
+    justify-content: center;
+    margin-top: 100px;
+
+
+}
+
+.imageicon {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 200px;
+    align-items: center;
+
+
+
+}
+
+.imageicon-titile {
+    text-align: center;
+}
+
+.imageicondescripation {
+    font-size: 24px;
+}
+
+.s3divmain {
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding-top: 120px;
+    margin-top: 50px;
+    gap: 186px;
+}
+
+.s3title {
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(39, 39, 39);
+
+}
+
+#off {
+    color: rgb(229, 84, 115);
+}
+
+.s3descripation {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400px;
+
+}
+
+.s3btn {
+    color: white;
+    background-color: rgb(229, 84, 115);
+    border-radius: 8px;
+    border: rgb(229, 84, 115);
+    width: 177px;
+    height: 64px;
+    font-size: 20px;
+
+}
+
+.s3div-main-sub {
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.S4perent {
+    margin-top: 148px;
+}
+
+.s4h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+.S4main {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.s4p {
+    display: flex;
+    justify-content: center;
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400px;
+    margin: 48px;
+}
+
+/* problem */
+
+.S5parents {
+    background-image: url("Rectangle\ 9.png");
+    margin-top: 50px;
+    height: 350px;
+
+}
+
+.S5parents-title {
+    text-align: center;
+    padding-top: 128px;
+    color: rgb(39, 39, 39);
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+.S5parents-title-subtitle {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    color: rgba(39, 39, 39, 0.6);
+}
+
+.gmailsub {
+    display: flex;
+    justify-content: center;
+
+}
+
+.S5placeholder {
+    background-color: white;
+    border-radius: 5px;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    width: 450px;
+    height: 54px;
+    margin-right: 10px;
+}
+
+.S5btn {
+    color: white;
+    background-color: rgb(229, 84, 115);
+    border-radius: 8px;
+    border: rgb(229, 84, 115);
+    width: 150px;
+    height: 54px;
+    font-size: 20px;
+
+}
+
+
+/* Footer */
+.footermain {
+    background: rgb(17, 16, 16);
+    height: 400px;
+
+}
+
+.footerh1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    color: rgb(229, 84, 115);
+    font-size: 25px;
+    font-weight: 800px;
+}
+
+.fshop {
+    color: rgb(255, 255, 255);
+}
+
+.footerp {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.footer2p {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400px;
+}
