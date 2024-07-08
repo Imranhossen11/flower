@@ -217,11 +217,14 @@
     font-size: 40px;
     font-weight: 800px;
 }
+/* problem */
 
 .S4main {
     display: flex;
     justify-content: center;
     gap: 24px;
+    flex-wrap: wrap;
+
 }
 
 .s4p {
@@ -233,21 +236,24 @@
     margin: 48px;
 }
 
-/* problem */
+
 
 .S5parents {
     background-image: url("Rectangle\ 9.png");
     margin-top: 50px;
-    height: 350px;
+    height: 380px;
+    width: 76%;
+    margin-bottom: 124px;
 
 }
 
 .S5parents-title {
     text-align: center;
-    padding-top: 128px;
+    padding-top: 60px;
     color: rgb(39, 39, 39);
     font-size: 40px;
     font-weight: 800px;
+    /* margin-top: 128px; */
 }
 
 .S5parents-title-subtitle {
@@ -260,6 +266,7 @@
 .gmailsub {
     display: flex;
     justify-content: center;
+    /* padding-bottom: 200px; */
 
 }
 
@@ -273,6 +280,7 @@
     width: 450px;
     height: 54px;
     margin-right: 10px;
+    outline: none;
 }
 
 .S5btn {
